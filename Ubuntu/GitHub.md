@@ -2,6 +2,7 @@
 ```bash
 git config --global user.name "jacksao"
 git config --global user.email "jacksao@aliyun.com"
+git config --global push.default simple
 ```
 #### 创建新仓库
 ```bash
